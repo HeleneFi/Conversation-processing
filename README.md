@@ -4,6 +4,7 @@ Conversation Processing
 An app to reprocess and recombine conversations:
 
 * Enable conversations to grow into something more comprehensive
+* Support progress of asynchrone conversation
 * Transition from unstructured to structured (http://www.communitywiki.org/en/StructureOfWikis) and reprocess the history into a structure.
 * Dispatching content to where it can be processed (mind map, document, project management)
 * Processing of content and iteration, annotation, evaluation, modification (sandbox)
