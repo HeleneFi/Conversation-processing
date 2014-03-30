@@ -3,14 +3,14 @@ Conversation Processing
 
 An app to reprocess and recombine conversations:
 
-* Enable conversations to grow into something more comprehensive
-* Support progress of asynchrone conversation
+* Support progress of asynchrone topical conversation
+* Enable them to grow into something more comprehensive and productive
 * Transition from unstructured to structured (http://www.communitywiki.org/en/StructureOfWikis) and reprocess the history into a structure.
-* Dispatching content to where it can be processed (mind map, document, project management)
+* Dispatching content to where it can be processed (knowledge base, mind map, document, project management)
 * Processing of content and iteration, annotation, evaluation, modification (sandbox)
 * Hands on modifying and scaling – fork, diff, merge. (re: open source - github)
 
-Think dicussions on FB or LI. How to turn them into projects.
+Think dicussions on FB or LI. How to turn them into projects: innovation, problem solving and decision making.
 
 Maybe using trello 'card' type of tool + [zapier](https://zapier.com/) type of integration app... 
 
