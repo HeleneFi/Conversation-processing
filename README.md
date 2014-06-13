@@ -6,7 +6,7 @@ An app to reprocess and recombine conversations:
 * Support progress of asynchrone topical conversation
 * Enable them to grow into something more comprehensive and productive
 * Transition from unstructured to structured (http://www.communitywiki.org/en/StructureOfWikis) and reprocess the history into a structure.
-* Dispatching content to where it can be processed (knowledge base, mind map, document, project management)
+* Dispatching content internal or external to where it can be processed (knowledge base, mind map, document, project management)
 * Processing of content and iteration, annotation, evaluation, modification (sandbox)
 * Hands on modifying and scaling – fork, diff, merge. (re: open source - github)
 
